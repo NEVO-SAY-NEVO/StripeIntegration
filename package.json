@@ -1,0 +1,52 @@
+{
+    "name": "study-swift-project",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@emailjs/browser": "^3.11.0",
+        "@formspree/react": "^2.5.1",
+        "@nextui-org/react": "^2.1.8",
+        "@react-email/components": "^0.0.7",
+        "@react-email/render": "^0.0.7",
+        "@stripe/react-stripe-js": "^1.0.0",
+        "@stripe/stripe-js": "^1.0.0",
+        "@types/bcryptjs": "^2.4.2",
+        "@types/jsonwebtoken": "^9.0.2",
+        "@types/node": "20.4.5",
+        "@types/react": "18.2.17",
+        "@types/react-dom": "18.2.7",
+        "bcryptjs": "^2.4.3",
+        "bootstrap": "^5.3.1",
+        "eslint": "8.45.0",
+        "eslint-config-next": "13.4.12",
+        "framer-motion": "^10.16.2",
+        "joi": "^17.9.2",
+        "jsonwebtoken": "^9.0.1",
+        "mongodb": "^5.7.0",
+        "mongoose": "^7.4.1",
+        "next": "13.4.12",
+        "nodemailer": "^6.9.5",
+        "react": "18.2.0",
+        "react-calendar": "^4.6.0",
+        "react-dom": "18.2.0",
+        "react-email": "^1.9.4",
+        "react-hook-form": "^7.45.2",
+        "react-icons": "^4.10.1",
+        "react-toastify": "^9.1.3",
+        "stripe": "^13.3.0",
+        "typescript": "5.1.6",
+        "zustand": "^4.3.9"
+    },
+    "devDependencies": {
+        "@types/nodemailer": "^6.4.9",
+        "autoprefixer": "^10.4.15",
+        "postcss": "^8.4.29",
+        "tailwindcss": "^3.3.3"
+    }
+}
